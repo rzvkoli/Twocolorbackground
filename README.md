@@ -6,4 +6,4 @@ This project is a background that consists of two colors.
 This project was created using Html structure and Css features.
 ## The main objective
 Use basic topics Html and Css.
-Beginner Practic and training Html and Css.
+Beginner Practice and training Html and Css.
