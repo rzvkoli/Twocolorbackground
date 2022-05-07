@@ -1,5 +1,5 @@
 # Two-color-background
-![Two-color background demo](https://user-images.githubusercontent.com/100797809/166559757-d26bd21f-2fb6-4cd7-8969-2f8dcaf99671.png)
+![Two-color background-demo](https://user-images.githubusercontent.com/100797809/167251529-5e9cf9a3-dda0-4ca2-8ab9-bb1f171b1299.png)
 ## Introduction
 This project is very easy and beginner.
 This project is a background that consists of two colors.
